@@ -58,8 +58,8 @@ To use this notebook effectively, ensure the following are installed in your Pyt
   - scikit-learn
   - jupyter or jupyterlab
 
-Use pip install -r requirements.txt 
-Install missing libraries using pip install <library_name>.
+Use \'''sh pip install -r requirements.txt \'''
+Install missing libraries using \'''sh pip install <library_name>\'''
 
 ## How to Use
 1. Clone the repository or download the notebook file.
