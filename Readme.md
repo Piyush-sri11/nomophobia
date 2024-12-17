@@ -50,7 +50,7 @@ The notebook is organized into the following sections:
 To use this notebook effectively, ensure the following are installed in your Python environment:
 
 - Python 3.x
-- Libraries:
+- Dependencies:
   - numpy
   - pandas
   - matplotlib
@@ -58,7 +58,10 @@ To use this notebook effectively, ensure the following are installed in your Pyt
   - scikit-learn
   - jupyter or jupyterlab
 
-Use pip install -r requirements.txt
+Install the dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 Install missing libraries using pip install <library_name>
 
 ## How to Use
